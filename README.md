@@ -6,6 +6,6 @@
 #### - Option selector to choose size of image -- Small, Medium and Large
 
 ### Tech-Stack :
-#### Front-End stack : HTML5, CSS3, JavaScript
-#### Back-End stack : NodeJS, ExpressJS, OpenAI Image Generation API
+#### - Front-End stack : HTML5, CSS3, JavaScript
+#### - Back-End stack : NodeJS, ExpressJS, OpenAI Image Generation API
 
